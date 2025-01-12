@@ -9,10 +9,10 @@
 ## Projects and Research
 - **Project 1**: [PinPung]
   - Description: Brief description of the project.
-  - Link: [Project Repository or Documentation Link]
+  - Link: [https://github.com/KTB-7/AI]
 - **Research 1**: [Time Series Prediction]
   - Description: Brief description of the research.
-  - Link: [Research Paper or Documentation Link]
+  - Link: [https://github.com/eh2ll/Time-Series-Research]
 
 ## Certifications
 - **Certification 1**: [SQLD]
