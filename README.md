@@ -1,20 +1,28 @@
-# Hi there 👋
+# About me
+
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eh2ll)](https://solved.ac/eh2ll)
 
+</div>
+
+---
+
 ## Education
 
-> **Ajou University**
-> 2019.03 ~ Present
-> Major : Software Engineering
->
-> **LAMDA Lab**
-> 2024.01 ~ 2024.07
-> Undergraduate Internships | Time Series Analysis
->
-> **KakaoTech Bootcamp 1st (in Pangyo)**
-> 2024.07 ~ 2024.12
-> Generative AI Process
+**Ajou University**  
+2019.03 ~ Present  
+Major: Software Engineering
+
+**LAMDA Lab**  
+2024.01 ~ 2024.07  
+Undergraduate Internships | Time Series Analysis
+
+**KakaoTech Bootcamp 1st (in Pangyo)**  
+2024.07 ~ 2024.12  
+Generative AI Process
+
+---
 
 ## Projects and Research
 
