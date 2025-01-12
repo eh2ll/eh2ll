@@ -1,13 +1,5 @@
 # About me
 
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eh2ll)](https://solved.ac/eh2ll)
-
-</div>
-
----
-
 ## Education
 
 **Ajou University**  
@@ -67,5 +59,15 @@ Generative AI Process
 
 - **SQLD**: 2024/12/13
 - **OPIC**: IH | 2024/09/17
+
+---
+
+## Problem Solving
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eh2ll)](https://solved.ac/eh2ll)
+
+</div>
 
 ---
