@@ -1,12 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eh2ll)](https://solved.ac/eh2ll)
 
 ## Education
-- **School**: [Ajou University]
-- **School Email**: [taegyu1121@ajou.ac.kr]
+
+> **Ajou University**
+> 2019.03 ~ Present
+> Major : Software Engineering
+>
+> **LAMDA Lab**
+> 2024.01 ~ 2024.07
+> Undergraduate Internships | Time Series Analysis
+>
+> **KakaoTech Bootcamp 1st (in Pangyo)**
+> 2024.07 ~ 2024.12
+> Generative AI Process
 
 ## Projects and Research
+
 - **Project 1**: [PinPung]
   - Description: Brief description of the project.
   - Link: [https://github.com/KTB-7/AI]
@@ -18,6 +29,7 @@
   - Link: [https://github.com/eh2ll/Time-Series-Research]
 
 ## Certifications
+
 - **Certification 1**: [SQLD]
   - Issuing Organization: [Organization Name]
   - Date: [2024/12/13]
@@ -25,18 +37,3 @@
   - Issuing Organization: [ACTFL]
   - Grade: [IH]
   - Date: [2024/09/17]
-
-<!--
-**eh2ll/eh2ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
