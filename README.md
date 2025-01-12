@@ -10,6 +10,9 @@
 - **Project 1**: [PinPung]
   - Description: Brief description of the project.
   - Link: [https://github.com/KTB-7/AI]
+- **Project 2**: [Bunch]
+  - Description: Brief description of the project.
+  - Link: [https://github.com/KTB-1/bunch-ai]
 - **Research 1**: [Time Series Prediction]
   - Description: Brief description of the research.
   - Link: [https://github.com/eh2ll/Time-Series-Research]
